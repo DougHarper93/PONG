@@ -67,7 +67,7 @@ pen.color("white")
 pen.penup()
 pen.hideturtle()
 pen.goto(0, 260)
-pen.write("Cuckold A: 0  Cuckold B: 0", align="center", font=("Courier", 24,"normal"))
+#pen.write("Cuckold A: 0  Cuckold B: 0", align="center", font=("Courier", 24,"normal"))
 
 #paddle movements
 movement_speed = 20
